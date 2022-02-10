@@ -9,7 +9,6 @@
     public class UserMin
     {
         public string Nick { get; set; }
-        public string Rol { get; set; }
         public string Password { get; set; }
 
     }
